@@ -8,3 +8,4 @@ ale-py
 stable-baselines3
 tensorboard
 pandas
+tbparse
